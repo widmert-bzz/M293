@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "37d94c956b8bbe4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0cc31ba68e44893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c947f64f031f3c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M293/Code_Standarts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f0cefddb8c6ff2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "02d88251dd22f5e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5b4ea9f0a752d49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35988c98c153a90a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cb0e07d1cc81116",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e485902b066c345f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3294d7e91382972a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d5d6312f7a46262",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "M293/Code_Standarts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "252289daea3a9795",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "M293/Code_Standarts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "738e5335de6287bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1329076e4f63d611",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "M293/Code_Standarts.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d5b4ea9f0a752d49",
+  "lastOpenFiles": [
+    "M293/Forms/Form with Datalist.md",
+    "M293/Forms/Form.md",
+    "M293/Forms/Checkbox.md",
+    "M293/Table.md",
+    "M293/Nav.md",
+    "M293/Lists.md",
+    "M293/Inline Elements.md",
+    "M293/Image and Audio embed.md",
+    "M293/Image.md",
+    "M293/Blueprint (body,header,nav,footer).md",
+    "M293/Article and Section.md",
+    "M293/Code_Standarts.md",
+    "M293",
+    "Nicht bestätigt 721574.crdownload"
+  ]
+}
