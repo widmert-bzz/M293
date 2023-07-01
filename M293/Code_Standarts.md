@@ -2,8 +2,11 @@ Immer ' '
 
 Bilder immer mit width, height und alt
 
-Good: href='styles.css'
-Bad: href = 'styles.css'
+Dateinamen in Kleinbuchstaben schreiben
+
+Good: href='styles.css'<br>
+Bad: href = 'styles.css'<br>
+Bad: HREF = 'STYLES.CSS'
 
 title immer vorhanden
 

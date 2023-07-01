@@ -5,24 +5,28 @@
   <meta charset='utf-8'>
   <title>Title</title>
 </head>
- 
+
 <body>
-  <header>
-    <nav>
-    </nav>
-  </header>
- 
-  <main>
+<header>
+  <nav>
+  </nav>
+</header>
+
+<main>
+  <section>
     <article>
-      <section>
-      </section>
-      <section>
-      </section>
     </article>
-  </main>
- 
-  <footer>
-  </footer>
+  </section>
+  <section>
+    <article>
+    </article>
+  </section>
+
+
+</main>
+
+<footer>
+</footer>
 </body>
 </html>
 ```
