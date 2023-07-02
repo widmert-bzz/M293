@@ -5,7 +5,7 @@
     <th>Savings</th>
   </tr>
   <tr>
-    <td colspan="2">$80</td>
+    <td colspan='2'>$80</td>
   </tr>
 </table>
 ```
