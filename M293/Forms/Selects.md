@@ -1,6 +1,6 @@
 #### Eine Auswahl:
 ```html
-<select name='anreise' size='5'>
+<select name='anreise'>
       <option>Auto</option>
       <option>Zug</option>
       <option>Bus</option>
