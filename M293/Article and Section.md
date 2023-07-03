@@ -1,8 +1,8 @@
 ```html	
-<section>
+<article>
 	Artikel
-    <artice>
+    <section>
 	  Abschnitt
-	</article>
-</section>
+	</section>
+</article>
 ```
