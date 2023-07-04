@@ -12,6 +12,7 @@ title immer vorhanden
 
 ```console
 htmlhint index.html
+htmlhint --config .\.github\linters\.htmlhintrc 
 ```
 
 ```console
